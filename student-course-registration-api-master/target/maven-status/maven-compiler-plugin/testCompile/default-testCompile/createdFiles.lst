@@ -1,0 +1,5 @@
+com\codingtest\registation\service\CourseServiceTest.class
+com\codingtest\registation\controller\StudentCourseRegistrationControllerTest.class
+com\codingtest\registation\ApplicationTest.class
+com\codingtest\registation\StringUtil.class
+com\codingtest\registation\service\StudentServiceTest.class
